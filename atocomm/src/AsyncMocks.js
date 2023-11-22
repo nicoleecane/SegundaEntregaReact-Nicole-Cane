@@ -1,4 +1,4 @@
-const products = [
+/*const products = [
   { id: "1", name: "Volume 1", img: "img/OIP.jpeg",  category: "Anime",  stock: 6 },
   { id: "2", name: "Volume 2", img: "img/OIP(1).jpeg",  category: "Anime",  stock: 14 },
   { id: "3", name: "Volume 3", img: "img/OIP(2).jpeg",  category: "Anime",  stock: 8 },
@@ -6,7 +6,7 @@ const products = [
   { id: "5", name: "Volume 5", img: "img/OIP(4).jpeg",  category: "Anime", stock: 10  },
   { id: "6", name: "Volume 6", img: "img/OIP(5).jpeg",  category: "Anime", stock: 20  },
   { id: "7", name: "Volume 7", img: "img/OIP(6).jpeg",  category: "Anime", stock: 5 },
-];
+];*/
 
 
 
