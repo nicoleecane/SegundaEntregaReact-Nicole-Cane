@@ -1,0 +1,21 @@
+h1{
+  color: blueviolet;
+  text-align: center;
+  padding:30px;
+}
+
+.attack4{
+
+  margin-left:350px;
+  height:400px;
+}
+
+.seasons{
+  display: flex;
+  margin: 30px;
+  margin-left: 600px;
+  border-radius: 8px;
+  border-color: blueviolet;
+  color: blueviolet;
+  font-weight: bold;
+}
