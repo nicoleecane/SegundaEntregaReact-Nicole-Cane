@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState } from "react";
 
-export const Counter = ({stock, initial, onAdd}) => {
+export const ItemCount = ({stock, initial, onAdd}) => {
   const [count, setCount] = useState(initial);
 
   const increment = () => {
